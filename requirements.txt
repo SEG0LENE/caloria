@@ -1,0 +1,7 @@
+streamlit
+openai
+plotly
+pandas
+sounddevice
+soundfile
+numpy
