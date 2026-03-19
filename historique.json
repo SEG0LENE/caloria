@@ -1,0 +1,69 @@
+[
+  {
+    "aliments": [
+      {
+        "nom": "Thon en conserve",
+        "quantite_g": 200,
+        "calories": 280
+      },
+      {
+        "nom": "Skyr",
+        "quantite_g": 150,
+        "calories": 100
+      },
+      {
+        "nom": "Potimarron rôti",
+        "quantite_g": 100,
+        "calories": 70
+      }
+    ],
+    "total_calories": 450,
+    "fiabilite": "haute",
+    "hypotheses": "Les portions sont basées sur des moyennes standards pour chaque aliment.",
+    "date": "2026-03-19",
+    "texte": "J'ai mangé une boite de thon de 200G un skyr quelques morceaux de potimarron roti"
+  },
+  {
+    "aliments": [
+      {
+        "nom": "biscottes",
+        "quantite_g": 30,
+        "calories": 120
+      },
+      {
+        "nom": "café au lait",
+        "quantite_g": 200,
+        "calories": 80
+      },
+      {
+        "nom": "beurre",
+        "quantite_g": 10,
+        "calories": 70
+      }
+    ],
+    "total_calories": 270,
+    "fiabilite": "haute",
+    "hypotheses": "Les portions sont basées sur des standards français pour un petit déjeuner léger.",
+    "date": "2026-03-19",
+    "texte": "J'ai mangé deux biscottes un café au lait et un petit morceau de beurre\n"
+  },
+  {
+    "aliments": [
+      {
+        "nom": "Vin blanc",
+        "quantite_g": 300,
+        "calories": 210
+      },
+      {
+        "nom": "Asperges vertes",
+        "quantite_g": 200,
+        "calories": 40
+      }
+    ],
+    "total_calories": 250,
+    "fiabilite": "haute",
+    "hypotheses": "Les portions sont basées sur des standards de consommation habituels.",
+    "date": "2026-03-19",
+    "texte": "J'ai bu deux verres de vin blanc et mangé un bocal d'asperges vertes"
+  }
+]
